@@ -8,6 +8,7 @@
 
 ## Topics in Macroeconomics (Computational Macro)
 This is a course in the computational tools used in modern macroeconomic.  The class will be a mixture of theory and programming.
+
 - **Instructor:** jesse.perla@ubc.ca
 - **Office Hours:** Thursday 10am-12pm in Iona 206
 - **Prerequisites:** One of ECON 301, ECON 304 and one of ECON 302, ECON 305 and one of ECON 303, ECON 306.
@@ -23,7 +24,7 @@ All materials will be provided online:
 ## Grading
 This will be project and homework based, with no exams.
 
-- Nearly **weekly** problem sets (mostly computational): 75\%
+- Nearly **weekly** problem sets (mostly computational): 65\%
 - Final Data Project: 15%
 	- I will give you a set of datasources and document a simple "fact"
 - Final Computational Project 20%
