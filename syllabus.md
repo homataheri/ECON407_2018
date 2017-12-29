@@ -13,12 +13,12 @@ This is a course in the computational tools used in modern macroeconomic.  The c
 - **Office Hours:** Thursday 10am-12pm in Iona 206
 - **Prerequisites:** One of ECON 301, ECON 304 and one of ECON 302, ECON 305 and one of ECON 303, ECON 306.
 	- A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
-- **Textbook:** We  will follow a subset of https://lectures.quantecon.org/jl/ along with typed notes
+- **Textbook:** We will follow a subset of https://lectures.quantecon.org/jl/ along with typed notes
 - **Learning Environment:** Come to class on time.   No cellphones.
 
 ## Course Materials and Communications
 All materials will be provided online:
-- Class Materials: https://github.com/ubcecon/ECON407_2018
+- Class Materials: https://github.com/jlperla/ECON407_2018
 - Communications, Announcements, and Grades: canvas.ubc.ca
 
 ## Grading
