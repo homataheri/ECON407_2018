@@ -24,7 +24,7 @@ All materials will be provided online:
 ## Grading
 This will be project and homework based, with no exams.
 
-- Nearly **weekly** problem sets (mostly computational): 65\%
+- Nearly **weekly** problem sets (mostly computational): 65%
 - Final Data Project: 15%
 	- I will give you a set of datasources and document a simple "fact"
 - Final Computational Project 20%
@@ -54,7 +54,6 @@ Much of the course will follow https://lectures.quantecon.org/jl/
 	- Finite Markov Chains
 	- LLN and CLT
 	- Linear State Space Models
-	- Continuous State Markov Chains
 	- Discrete State Dynamic Programming
 - Single Agent Models
 	- Shortest Paths
@@ -66,5 +65,7 @@ Much of the course will follow https://lectures.quantecon.org/jl/
 - Multiple Agent Models
 	- Lake Model of Unemployment
 	- Introduction to Asset Pricing
-
-(Time-permitting, we may add/remove a few more topics from the notes)
+- Topics in Data Science
+	- Dataframes
+	- Linear regressions
+	- More (Time-permitting)...
