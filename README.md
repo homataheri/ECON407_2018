@@ -11,6 +11,7 @@ See [Syllabus](syllabus.md) for more details
 We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](https://lectures.quantecon.org/jl/)
 
 1. **January 4th** - Math Review and [Finite Markov Chains](https://lectures.quantecon.org/jl/finite_markov.html)
+    - [Math Review Notebook](lecture_notes/Math Review.ipynb) and [Math Review](lecture_notes/math_review.pdf)
     - Start by getting a GitHub account and following [Julia Instructions](https://github.com/econtoolkit/julia)
 1. **January 9th** - Julia Review Session 
     - Start going through [Learning Julia](https://lectures.quantecon.org/jl/learning_julia.html)
