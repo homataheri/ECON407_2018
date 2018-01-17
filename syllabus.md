@@ -12,7 +12,7 @@ This is a course in the computational tools used in modern macroeconomic.  The c
 - **Instructor:** jesse.perla@ubc.ca
 - **Office Hours:** Thursday 10am-12pm in Iona 206
 - **Prerequisites:** One of ECON 301, ECON 304 and one of ECON 302, ECON 305 and one of ECON 303, ECON 306.
-	- A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
+  - A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
 - **Textbook:** We will follow a subset of https://lectures.quantecon.org/jl/ along with typed notes
 - **Learning Environment:** Come to class on time.   No cellphones.
 
@@ -26,9 +26,9 @@ This will be project and homework based, with no exams.
 
 - Nearly **weekly** problem sets (mostly computational): 65%
 - Final Data Project: 15%
-	- I will give you a set of datasources and document a simple "fact"
+  - I will give you a set of datasources and document a simple "fact"
 - Final Computational Project 20%
-	- You will have a great deal of freedom to implement a small final project using what we learn in the class
+  - You will have a great deal of freedom to implement a small final project using what we learn in the class
 
 A word of warning: if you have never taken a class with a lot of programming assignments, it is a great deal of work, but ultimately very rewarding.
 
@@ -44,28 +44,28 @@ To get started, go to https://github.com/econtoolkit/julia for more instructions
 Much of the course will follow https://lectures.quantecon.org/jl/
 
 - Math Review
-	- Matrices and Basic Linear Algebra
-	- Probability
+  - Matrices and Basic Linear Algebra
+  - Probability
 - Programming Introduction
-	- Using Julia
-	- Github
+  - Using Julia
+  - Github
 - Tools and Techniques
-	- Linear Algebra
-	- Finite Markov Chains
-	- LLN and CLT
-	- Linear State Space Models
-	- Discrete State Dynamic Programming
+  - Linear Algebra
+  - Finite Markov Chains
+  - LLN and CLT
+  - Linear State Space Models
+  - Discrete State Dynamic Programming
 - Single Agent Models
-	- Shortest Paths
-	- The McCall Job Search Model
-	- A Stochastic Optimal Growth Model
-	- The Income Fluctuation Problem
-	- The Permanent Income Model: I
-	- The Permanent Income Model: II
+  - Shortest Paths
+  - The McCall Job Search Model
+  - A Stochastic Optimal Growth Model
+  - The Income Fluctuation Problem
+  - The Permanent Income Model: I
+  - The Permanent Income Model: II
 - Multiple Agent Models
-	- Lake Model of Unemployment
-	- Introduction to Asset Pricing
+  - Lake Model of Unemployment
+  - Introduction to Asset Pricing
 - Topics in Data Science
-	- Dataframes
-	- Linear regressions
-	- More (Time-permitting)...
+  - Dataframes
+  - Linear regressions
+  - More (Time-permitting)...
