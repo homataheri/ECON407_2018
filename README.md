@@ -29,6 +29,7 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 6. **January 23rd** - Code examples from [Linear Models](https://lectures.quantecon.org/jl/linear_models.html), and in class office hours for assignment questions
     - Will review [Exercise 1](https://lectures.quantecon.org/jl/linear_models.html#exercise-1), [Exercise 2](https://lectures.quantecon.org/jl/linear_models.html#exercise-2), [Exercise 3](https://lectures.quantecon.org/jl/linear_models.html#exercise-3) [Exercise 4](https://lectures.quantecon.org/jl/linear_models.html#exercise-4)  with code for [solutions](https://lectures.quantecon.org/jl/linear_models.html#id16).
 7. **January 25th** - [Discrete Dynamic Programming](https://lectures.quantecon.org/jl/discrete_dp.html)
+8. **January 30th** - [Discrete Dynamic Programming](https://lectures.quantecon.org/jl/discrete_dp.html) and [Shortest Paths](https://lectures.quantecon.org/jl/short_path.html)
 
 ## Problem Sets
 See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/submitting_code.md) for details on how to submit code, and how to name the files.
