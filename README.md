@@ -28,9 +28,11 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
     - 2.5.6: skip "Covariance of Prediction Errors"
 6. **January 23rd** - Code examples from [Linear Models](https://lectures.quantecon.org/jl/linear_models.html), and in class office hours for assignment questions
     - Will review [Exercise 1](https://lectures.quantecon.org/jl/linear_models.html#exercise-1), [Exercise 2](https://lectures.quantecon.org/jl/linear_models.html#exercise-2), [Exercise 3](https://lectures.quantecon.org/jl/linear_models.html#exercise-3) [Exercise 4](https://lectures.quantecon.org/jl/linear_models.html#exercise-4)  with code for [solutions](https://lectures.quantecon.org/jl/linear_models.html#id16).
-7. **January 25th** - [Discrete Dynamic Programming](https://lectures.quantecon.org/jl/discrete_dp.html)
-8. **January 30th** - [Discrete Dynamic Programming](https://lectures.quantecon.org/jl/discrete_dp.html) and [Shortest Paths](https://lectures.quantecon.org/jl/short_path.html)
+7. **January 25th** - Introduction to Dynamic programming with [Discrete Dynamic Programming](https://lectures.quantecon.org/jl/discrete_dp.html)
+8. **January 30th** - [Discrete Dynamic Programming](https://lectures.quantecon.org/jl/discrete_dp.html)
+9. **February 1st** - [Shortest Paths](https://lectures.quantecon.org/jl/short_path.html) and start [McCall Job Search](https://lectures.quantecon.org/jl/mccall_model.html)
 
 ## Problem Sets
 See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/submitting_code.md) for details on how to submit code, and how to name the files.
 1. **Due January 25th** - [Assignment 1](/problem_sets/assignment_1.pdf)
+2. **Due February 8th** - [Assignment 2](/problem_sets/assignment_2.pdf)
