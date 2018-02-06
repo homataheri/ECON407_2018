@@ -32,7 +32,9 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 8. **January 30th** - [Discrete Dynamic Programming](https://lectures.quantecon.org/jl/discrete_dp.html)
 9. **February 1st** - [Shortest Paths](https://lectures.quantecon.org/jl/short_path.html) and start [McCall Job Search](https://lectures.quantecon.org/jl/mccall_model.html)
 10. **February 6th** - [Stochastic Optimal Growth](https://lectures.quantecon.org/jl/optgrowth.html)
-11. **February 8th** - [Stochastic Optimal Growth](https://lectures.quantecon.org/jl/optgrowth.html) and maybe start [Income Fluctuation Problem](https://lectures.quantecon.org/jl/ifp.html)
+11. **February 8th** - Code from [McCall Job Search](https://lectures.quantecon.org/jl/mccall_model.html) and [Stochastic Optimal Growth](https://lectures.quantecon.org/jl/optgrowth.html)
+12. **February 13th** - Go over Problem Set Solutions
+13. **February 15th** - [Income Fluctuation Problem](https://lectures.quantecon.org/jl/ifp.html)
 
 ## Problem Sets
 See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/submitting_code.md) for details on how to submit code, and how to name the files.
