@@ -36,7 +36,17 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 12. **February 13th** - Go over Problem Set Solutions
 13. **February 15th** - Review of [Discrete DP Code](notebooks/discrete_dp.ipynb)
 14. **February 27th** - Review of [Code Examples](notebooks/code_examples.ipynb) and [McCall Code](notebooks/mccall_model.ipynb) and
-15. **February 28th** - [Stochastic Optimal Growth](https://lectures.quantecon.org/jl/optgrowth.html) and [Optimal Growth Code](notebooks/optgrowth.ipynb)
+15. **March 1st** - [Stochastic Optimal Growth](https://lectures.quantecon.org/jl/optgrowth.html)
+16. **March 6th** - [Optimal Growth Code](notebooks/optgrowth.ipynb) and start [Lake Model of Unemployment](https://lectures.quantecon.org/jl/lake_model.html)
+17. **March 8th** - [Lake Model of Unemployment](https://lectures.quantecon.org/jl/lake_model.html)
+18. **March 13th** - Code for [Lake Model of Unemployment](https://lectures.quantecon.org/jl/lake_model.html)
+19. **March 15th** - [Introduction to Asset Pricing](https://lectures.quantecon.org/jl/markov_asset.html)
+20. **March 20nd** -
+21. **March 22th** -
+22. **March 27th** -
+23. **March 29th** -
+24. **April 3rd** -
+25. **April 5th** -  
 
 ## Problem Sets
 See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/submitting_code.md) for details on how to submit code, and how to name the files.
