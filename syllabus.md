@@ -24,10 +24,8 @@ All materials will be provided online:
 ## Grading
 This will be project and homework based, with no exams.
 
-- Nearly **weekly** problem sets (mostly computational): 65%
-- Final Data Project: 15%
-  - I will give you a set of datasources and document a simple "fact"
-- Final Computational Project 20%
+- 5-6 Problem sets (mostly computational): 75%
+- Final Computational Project 25%
   - You will have a great deal of freedom to implement a small final project using what we learn in the class
 
 A word of warning: if you have never taken a class with a lot of programming assignments, it is a great deal of work, but ultimately very rewarding.
@@ -60,12 +58,6 @@ Much of the course will follow https://lectures.quantecon.org/jl/
   - The McCall Job Search Model
   - A Stochastic Optimal Growth Model
   - The Income Fluctuation Problem
-  - The Permanent Income Model: I
-  - The Permanent Income Model: II
 - Multiple Agent Models
   - Lake Model of Unemployment
   - Introduction to Asset Pricing
-- Topics in Data Science
-  - Dataframes
-  - Linear regressions
-  - More (Time-permitting)...

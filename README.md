@@ -39,9 +39,9 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 15. **March 1st** - [Stochastic Optimal Growth](https://lectures.quantecon.org/jl/optgrowth.html)
 16. **March 6th** - [Optimal Growth Code](notebooks/optgrowth.ipynb) and start [Lake Model of Unemployment](https://lectures.quantecon.org/jl/lake_model.html)
 17. **March 8th** - [Lake Model of Unemployment](https://lectures.quantecon.org/jl/lake_model.html)
-18. **March 13th** - Code for [Lake Model of Unemployment](https://lectures.quantecon.org/jl/lake_model.html)
-19. **March 15th** - [Introduction to Asset Pricing](https://lectures.quantecon.org/jl/markov_asset.html)
-20. **March 20nd** -
+18. **March 13th** - [Lake Model of Unemployment](https://lectures.quantecon.org/jl/lake_model.html)
+19. **March 15th** - Code for [Lake Model of Unemployment](https://lectures.quantecon.org/jl/lake_model.html)
+20. **March 20nd** - [Introduction to Asset Pricing](https://lectures.quantecon.org/jl/markov_asset.html)
 21. **March 22th** -
 22. **March 27th** -
 23. **March 29th** -
@@ -52,4 +52,5 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/submitting_code.md) for details on how to submit code, and how to name the files.
 1. **Due January 25th** - [Assignment 1](/problem_sets/assignment_1.pdf)
 2. **Due February 8th** - [Assignment 2](/problem_sets/assignment_2.pdf)
-3. **Due March 6th** - [Assignment 3](/problem_sets/assignment_3.pdf)
+3. **Due March 8th** - [Assignment 3](/problem_sets/assignment_3.pdf)
+4. **Due March 20th** - [Assignment 4](/problem_sets/assignment_4.pdf)
