@@ -45,7 +45,7 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 21. **March 22th** - Code for [Lake Model of Unemployment](https://lectures.quantecon.org/jl/lake_model.html)
 22. **March 27th** - Problem Set Reviews
 23. **March 29th** - CLASS CANCELLED
-24. **April 3rd** - 
+24. **April 3rd** -
 25. **April 5th** -  
 
 ## Problem Sets
