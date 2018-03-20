@@ -43,8 +43,8 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 19. **March 15th** - [Introduction to Asset Pricing](https://lectures.quantecon.org/jl/markov_asset.html)
 20. **March 20nd** - [Introduction to Asset Pricing](https://lectures.quantecon.org/jl/markov_asset.html)
 21. **March 22th** - Code for [Lake Model of Unemployment](https://lectures.quantecon.org/jl/lake_model.html)
-22. **March 27th** - Problem Set Reviews
-23. **March 29th** - CLASS CANCELLED
+22. **March 27th** - Go over Problem Set Solutions
+23. **March 29th** - **CLASS CANCELLED**
 24. **April 3rd** -
 25. **April 5th** -  
 
@@ -55,3 +55,5 @@ See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/su
 3. **Due March 8th** - [Assignment 3](/problem_sets/assignment_3.pdf)
 4. **Due March 20th** - [Assignment 4](/problem_sets/assignment_4.pdf)
 5. **Due April 3rd** - [Assignment 5](/problem_sets/assignment_5.pdf)
+6. **Due April 12th** - Assignment 6, Details TBD
+7. **Due April 23rd** - [Final Project](/problem_sets/final_project.pdf)
