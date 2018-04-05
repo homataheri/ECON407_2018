@@ -54,5 +54,5 @@ See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/su
 2. **Due February 8th** - [Assignment 2](/problem_sets/assignment_2.pdf)
 3. **Due March 8th** - [Assignment 3](/problem_sets/assignment_3.pdf)
 4. **Due March 20th** - [Assignment 4](/problem_sets/assignment_4.pdf)
-5. **Due April 12th** - [Assignment 5](/problem_sets/assignment_5.pdf) (2nd problem coming soon)
+5. **Due April 12th** - [Assignment 5](/problem_sets/assignment_5.pdf)
 7. **Due April 23rd** - [Final Project](/problem_sets/final_project.pdf)
