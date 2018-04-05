@@ -1,14 +1,12 @@
 # Course materials for ECON407
-
 - Get a GitHub ID and use [GitHub](https://github.com/ubcecon/tutorials/blob/master/github.md) directly
-- Consider clicking `Watch` at the top of this repository to see when files are added or changed
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
 
 ## Lectures
 
-We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](https://lectures.quantecon.org/jl/)
+Primarily from [QuantEcon Lecture Notes](https://lectures.quantecon.org/jl/)
 
 1. **January 4th** - Math Review and [Finite Markov Chains](https://lectures.quantecon.org/jl/finite_markov.html)
     - [Math Review Notebook](lecture_notes/linear_algebra_review.ipynb) and [Math Review](lecture_notes/math_review.pdf)

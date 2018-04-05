@@ -13,7 +13,7 @@ This is a course in the computational tools used in modern macroeconomic.  The c
 - **Office Hours:** Thursday 10am-12pm in Iona 206
 - **Prerequisites:** One of ECON 301, ECON 304 and one of ECON 302, ECON 305 and one of ECON 303, ECON 306.
   - A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
-- **Textbook:** We will follow a subset of https://lectures.quantecon.org/jl/ along with typed notes
+- **Textbook:** We will follow a subset of https://lectures.quantecon.org/jl/
 - **Learning Environment:** Come to class on time.   No cellphones.
 
 ## Course Materials and Communications
@@ -50,14 +50,14 @@ Much of the course will follow https://lectures.quantecon.org/jl/
 - Tools and Techniques
   - Linear Algebra
   - Finite Markov Chains
-  - LLN and CLT
   - Linear State Space Models
   - Discrete State Dynamic Programming
 - Single Agent Models
   - Shortest Paths
-  - The McCall Job Search Model
-  - A Stochastic Optimal Growth Model
-  - The Income Fluctuation Problem
+  - Job Search I: The McCall Search Model
+  - Job Search II: Search and Separation
+  - Optimal Growth I: The Stochastic Optimal Growth Model
 - Multiple Agent Models
-  - Lake Model of Unemployment
-  - Introduction to Asset Pricing
+  - A Lake Model of Employment and Unemployment
+  - Asset Pricing I: Finite State Models
+  - Asset Pricing II: The Lucas Asset Pricing Model
